@@ -1,0 +1,6 @@
+{
+  "name": "Asphalt Dash",
+  "description": "Endless multi-lane road runner game with opt-in AdsGram rewarded continue integration and transparent ad-policy compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
